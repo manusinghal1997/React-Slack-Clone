@@ -1,0 +1,26 @@
+1. Wireframming - Draw rough sketch of what you are actually going to build
+2. Functionality
+	* Sign in
+	* Sign up
+	* Create Channel
+	* Send message in a channel
+	* Search Channel
+	* Search user
+	* join a Channel
+3. Data
+	* users
+	* Channel
+	* messages
+4. UI
+	* React - Simple JS library which is used to build user interfaces
+	* SideBar
+	  * Channel
+	  * List of Direct Messages
+	  * Starred
+	* MainContainer
+	  * Header
+	  * ListOfMessages
+	  * CreateMessag
+	* SignIn
+	* SignUp
+	
